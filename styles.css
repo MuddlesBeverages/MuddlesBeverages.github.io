@@ -174,7 +174,7 @@ nav, article, nav ul li a,figure{
 
 article{
 	padding: 60px 15%;
-	text-align: center;	
+	text-align: justify;	
 }
 
 @media screen and (max-width: 644px) {

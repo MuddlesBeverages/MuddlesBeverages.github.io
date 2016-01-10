@@ -60,7 +60,7 @@ h3{
 h2{
 	font-size:2.2em;
 	font-weight:normal;
-	letter-spacing:0.01em;	
+	letter-spacing:0.01em;
 	text-transform: lowercase;
 	margin-bottom: 50px;
 }
@@ -104,7 +104,7 @@ nav{
 	margin-top: 20px;
 	margin-bottom: 40px;
 	text-transform: lowercase;
-	
+
 }
 
 /* The clearfix hack to clear the floats: */
@@ -147,7 +147,7 @@ nav ul li a:hover{
 	border-bottom-color: #333;
 }
 
-/* 
+/*
 nav, article, nav ul li a,figure{
 	/* Applying CSS3 rounded corners: */
 	-moz-border-radius:10px;
@@ -174,7 +174,7 @@ nav, article, nav ul li a,figure{
 
 article{
 	padding: 60px 15%;
-	text-align: center;	
+	text-align: center;
 }
 
 @media screen and (max-width: 644px) {
@@ -213,6 +213,13 @@ figure img{
 	margin-left:-60px;
 }
 
+/* Images */
+
+.inline-instagram {
+	display: inline;
+	float: right;
+	margin-left: 20px;
+}
 
 /* Product */
 
@@ -223,7 +230,7 @@ figure img{
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
-	background: url(images/product.jpg) no-repeat;	
+	background: url(images/product.jpg) no-repeat;
 	margin: auto;
 	margin-bottom: 40px;
 	margin-top: 20px;
@@ -231,7 +238,7 @@ figure img{
 
 #pearrosemary {
 	float: left;
-	width: 30%;	
+	width: 30%;
 }
 
 #applethyme {
@@ -299,18 +306,17 @@ footer a:hover{
 @media screen and (max-width: 480px) {
 	.align-left, .align-right {
 		display: block;
-		float: none;		
+		float: none;
 		width: 100%;
-		text-align: center;	
+		text-align: center;
 		padding: 0
 	}
-	
+
 	footer a.up {
 		float: none;
 	}
-	
+
 	footer a.up {
 		float: none;
 	}
 }
-

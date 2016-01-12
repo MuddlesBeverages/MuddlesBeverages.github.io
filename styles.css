@@ -138,13 +138,11 @@ nav ul li a:visited{
 	font-size:2.0em;
 	margin:10px 20px;
 	padding:7px 0px 3px;
-	border-bottom-color: #e11a57;	
 }
 
 nav ul li a:hover{
 	text-decoration:none;
 	color: #e11a57;
-	border-bottom-color: #3b1a51;	
 }
 
 /*
@@ -165,11 +163,11 @@ nav, article, nav ul li a,figure{
 }
 
 #product {
-	background: #e11a57;
+	background: #ef4348;
 }
 
 #contact {
-	background: #e11a57;
+	background: #ef4348;
 }
 
 article{

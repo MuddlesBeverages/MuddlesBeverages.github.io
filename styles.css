@@ -138,13 +138,13 @@ nav ul li a:visited{
 	font-size:2.0em;
 	margin:10px 20px;
 	padding:7px 0px 3px;
-	border-bottom: 1px solid #d9d9d9;
+	border-bottom: 1px solid #e11a57;
 }
 
 nav ul li a:hover{
 	text-decoration:none;
 	color: #e11a57;
-	border-bottom-color: #333;
+	border-bottom-color: #3b1a51;
 }
 
 /*

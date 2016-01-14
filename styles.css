@@ -16,7 +16,7 @@ body{
 	/* Setting the default text color, size, page background and a font stack: */
 	color:#3b1a51;
 	background-color:#ffffff;
-	font-family:"Brandon Text";
+	font-family:"helvetica neue";
 	font-size: 1.4em;
 }
 
@@ -39,7 +39,7 @@ a img{
 /* Headings: */
 
 h1,h2,h3{
-	font-family:"Thirsty Rough";
+	font-family:"helvetica neue";
 }
 
 h1{
@@ -96,7 +96,7 @@ footer .line{
 }
 
 nav{
-	font-family:"Thirsty Rough";
+	font-family:"helvetica neue";
 	padding:0 5px;
 	top:4em;
 	margin-left: auto;

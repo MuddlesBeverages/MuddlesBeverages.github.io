@@ -14,16 +14,16 @@ figure{
 
 body{
 	/* Setting the default text color, size, page background and a font stack: */
-	color:#333;
+	color:#3b1a51;
 	background-color:#ffffff;
-	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
+	font-family:"helvetica neue";
 	font-size: 1.4em;
 }
 
 /* Hyperlink Styles: */
 
 a, a:visited {
-	color:#333;
+	color:#3b1a51;
 	text-decoration:none;
 	outline:none;
 }
@@ -39,7 +39,7 @@ a img{
 /* Headings: */
 
 h1,h2,h3{
-	font-family:"HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, sans-serif;
+	font-family:"helvetica neue";
 }
 
 h1{
@@ -86,7 +86,7 @@ p{
 
 article .line{
 	/* The dividing line inside of the article is darker: */
-	background-color:#15242a;
+	background-color:#333;
 	border-bottom-color:#204656;
 	margin:1.3em 0;
 }
@@ -96,7 +96,7 @@ footer .line{
 }
 
 nav{
-	font-family:"HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, sans-serif;
+	font-family:"helvetica neue";
 	padding:0 5px;
 	top:4em;
 	margin-left: auto;
@@ -132,19 +132,17 @@ nav ul li{
 
 nav ul li a,
 nav ul li a:visited{
-	color: #565656;
+	color: #3b1a51;
 	display:block;
 	float:left;
 	font-size:2.0em;
 	margin:10px 20px;
 	padding:7px 0px 3px;
-	border-bottom: 1px solid #d9d9d9;
 }
 
 nav ul li a:hover{
 	text-decoration:none;
-	color: #333;
-	border-bottom-color: #333;
+	color: #e11a57;
 }
 
 /*
@@ -165,11 +163,11 @@ nav, article, nav ul li a,figure{
 }
 
 #product {
-	background: #f1f1f1;
+	background: #df5680;
 }
 
 #contact {
-	background: #f1f1f1;
+	background: #df5680;
 }
 
 article{
@@ -275,7 +273,7 @@ footer{
 	margin-bottom:30px;
 	text-align:center;
 	font-size:0.825em;
-	background: #000;
+	background: #3b1a51;
 	color: #ccc;
 	padding-top: 20px;
 	padding-bottom: 6px;

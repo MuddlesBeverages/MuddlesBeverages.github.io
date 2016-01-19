@@ -213,15 +213,49 @@ figure img{
 
 /* Images */
 
-.inline-instagram {
-	display: inline;
-	float: right;
-	margin-left: 20px;
-}
+
 
 /* Product */
 
 .product-img {
+	display: block;
+	width:80%;
+	height:auto;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	background: url(images/product.jpg) no-repeat;
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+.story-img {
+	display: block;
+	width:100%;
+	height:auto;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	background: url(images/product.jpg) no-repeat;
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+.inline-img-right {
+	display: inline;
+	float: right;
+	width: 300px;
+	height: auto;
+	margin-left: 40px;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+}
+
+.between-img {
 	display: block;
 	width:100%;
 	height:auto;

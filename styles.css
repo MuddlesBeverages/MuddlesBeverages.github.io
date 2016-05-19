@@ -15,7 +15,7 @@ figure{
 body{
 	/* Setting the default text color, size, page background and a font stack: */
 	color:#3b1a51;
-	background-color:##dcc8ea;
+	background-color:#ffffff;
 	font-family:"helvetica neue";
 	font-size: 1.4em;
 }
@@ -163,11 +163,11 @@ nav, article, nav ul li a,figure{
 }
 
 #product {
-	background: #ecc2cf;
+	background: ##fbdde6;
 }
 
 #contact {
-	background: #ecc2cf;
+	background: ##fbdde6;
 }
 
 article{

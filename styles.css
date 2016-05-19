@@ -142,7 +142,7 @@ nav ul li a:visited{
 
 nav ul li a:hover{
 	text-decoration:none;
-	color: #ecc2cf;
+	color: #e11a57;
 }
 
 /*
@@ -163,11 +163,11 @@ nav, article, nav ul li a,figure{
 }
 
 #product {
-	background: #df5680;
+	background: #ecc2cf;
 }
 
 #contact {
-	background: #df5680;
+	background: #ecc2cf;
 }
 
 article{

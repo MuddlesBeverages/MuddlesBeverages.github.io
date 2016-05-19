@@ -286,7 +286,18 @@ figure img{
 
 /* Sugar */
 
-
+.sugar-img {
+	display: block;
+	width:80%;
+	height:auto;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	background: url(images/sugar display.jpg) no-repeat;
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
 
 /* About */
 

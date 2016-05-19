@@ -237,7 +237,7 @@ figure img{
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
-	background: url(images/product.jpg) no-repeat;
+	background: url(images/product banner.jpg) no-repeat;
 	margin: auto;
 	margin-bottom: 40px;
 	margin-top: 20px;
@@ -262,7 +262,7 @@ figure img{
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
-	background: url(images/product.jpg) no-repeat;
+	background: url(images/product banner.jpg) no-repeat;
 	margin: auto;
 	margin-bottom: 40px;
 	margin-top: 20px;
@@ -283,6 +283,10 @@ figure img{
 	width: 30%;
 	display:inline-block;
 }
+
+/* Sugar */
+
+
 
 /* About */
 

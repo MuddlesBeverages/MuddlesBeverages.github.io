@@ -135,7 +135,7 @@ nav ul li a:visited{
 	color: #3b1a51;
 	display:block;
 	float:left;
-	font-size:2.0em;
+	font-size:1.2em;
 	margin:10px 20px;
 	padding:7px 0px 3px;
 }
@@ -166,9 +166,22 @@ nav, article, nav ul li a,figure{
 	background: #eaccd5;
 }
 
-#contact {
+#sugar {
 	background: #eaccd5;
 }
+
+#press {
+	background: #eaccd5;
+}
+
+#stockists {
+	display: inline-block;
+	margin: 0 20px 0 0;
+}
+
+/*#contact {
+	background: #eaccd5;
+}*/
 
 article{
 	padding: 60px 15%;
@@ -214,6 +227,14 @@ figure img{
 /* Images */
 
 
+
+.product-box {
+	display:inline-block;
+	width:80%;
+	height:auto;
+	vertical-align: middle;
+	margin: 0 40px 0 0;
+}
 
 /* Product */
 

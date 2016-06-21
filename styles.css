@@ -175,8 +175,8 @@ nav, article, nav ul li a,figure{
 }
 
 #stockists {
-	display: inline-block;
-	margin: 0 20px 0 0;
+	/*display: inline-block;
+	margin: 0 20px 0 0;*/
 }
 
 /*#contact {
